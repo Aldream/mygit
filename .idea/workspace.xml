@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79d04e8d-0396-43c4-ab98-f8a14451b4aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aTjy8TcVO0Xwtkknl1k7uIKCHe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crm_data/crm_login_data" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shinelon\Desktop\crm_test\crm_data\crm_login_data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shinelon\Desktop\crm_test\crm_data\crm_login_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for person_update_case.PersonUpdateCase">
+    <configuration name="person_info_update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crm_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crm_page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crm_page/person_info_update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_fail_case.LoginFailCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="crm_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crm_testcase/login_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_fail_case.LoginFailCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_fail_case.LoginSuccessCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="crm_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crm_testcase/login_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_fail_case.LoginSuccessCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_success_case.LoginSuccessCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="crm_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crm_testcase/login_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_success_case.LoginSuccessCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for person_update_case.PersonUpdateCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="crm_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crm_testcase/person_info_update_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;person_update_case.PersonUpdateCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for person_update_case.PersonUpdateCase" />
+        <item itemvalue="Python.person_info_update" />
+        <item itemvalue="Python tests.Unittests for login_fail_case.LoginFailCase" />
+        <item itemvalue="Python tests.Unittests for login_fail_case.LoginSuccessCase" />
+        <item itemvalue="Python tests.Unittests for login_success_case.LoginSuccessCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d04e8d-0396-43c4-ab98-f8a14451b4aa" name="Default Changelist" comment="" />
+      <created>1586766729192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586766729192</updated>
+      <workItem from="1586766730598" duration="13323000" />
+      <workItem from="1586824410877" duration="1004000" />
+      <workItem from="1586829770771" duration="20108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="216" y="134" width="1606" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586788392902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="216" y="134" width="1606" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586788392902" />
+    <state width="1847" height="302" key="GridCell.Tab.0.bottom" timestamp="1586880819109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586880819109" />
+    <state width="1847" height="302" key="GridCell.Tab.0.center" timestamp="1586880819109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586880819109" />
+    <state width="1847" height="302" key="GridCell.Tab.0.left" timestamp="1586880819109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586880819109" />
+    <state width="1847" height="302" key="GridCell.Tab.0.right" timestamp="1586880819109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586880819109" />
+    <state x="926" y="168" key="SettingsEditor" timestamp="1586776911589">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586776911589" />
+    <state x="563" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586824418312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="381" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586824418312" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/crm_test$test.coverage" NAME="test Coverage Results" MODIFIED="1586786688837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crm_test$login_case_run.coverage" NAME="login_case_run Coverage Results" MODIFIED="1586788633553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crm_test_run" />
+    <SUITE FILE_PATH="coverage/crm_test$Unittests_for_login_success_case_LoginSuccessCase.coverage" NAME="Unittests for login_success_case.LoginSuccessCase Coverage Results" MODIFIED="1586865833680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crm_testcase/login_case" />
+    <SUITE FILE_PATH="coverage/crm_test$Unittests_for_person_update_case_PersonUpdateCase.coverage" NAME="Unittests for person_update_case.PersonUpdateCase Coverage Results" MODIFIED="1586880819093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crm_testcase/person_info_update_case" />
+    <SUITE FILE_PATH="coverage/crm_test$Unittests_for_login_fail_case_LoginSuccessCase.coverage" NAME="Unittests for login_fail_case.LoginSuccessCase Coverage Results" MODIFIED="1586865931912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crm_testcase/login_case" />
+    <SUITE FILE_PATH="coverage/crm_test$person_info_update.coverage" NAME="person_info_update Coverage Results" MODIFIED="1586880373678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crm_page" />
+    <SUITE FILE_PATH="coverage/crm_test$Unittests_for_login_fail_case_LoginFailCase.coverage" NAME="Unittests for login_fail_case.LoginFailCase Coverage Results" MODIFIED="1586867830445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crm_testcase/login_case" />
+  </component>
+</project>

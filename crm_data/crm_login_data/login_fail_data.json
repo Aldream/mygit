@@ -1,0 +1,13 @@
+{
+	"test1":{"username":"admin","password":"12345678","hope_alert":"用户或密码错误！请重新输入！"},
+    "test2":{"username":"admi","password":"123456","hope_alert":"用户或密码错误！请重新输入！"},
+    "test3":{"username":"adminadminadminadmin","password":"123456","hope_alert":"用户或密码错误！请重新输入！"},
+    "test4":{"username":"admin","password":"12345678123456781234567812345678","hope_alert":"用户或密码错误！请重新输入！"},
+    "test5":{"username":"#$%%$%^&","password":"123456","hope_alert":"- 账号只能由字母和数字组成!"},
+    "test6":{"username":"admin","password":"#$%%$%^&","hope_alert":"用户或密码错误！请重新输入！"},
+    "test7":{"username":"admin","password":" 123456","hope_alert":"用户或密码错误！请重新输入！"},
+    "test8":{"username":"admin","password":"123 456","hope_alert":"用户或密码错误！请重新输入！"},
+    "test9":{"username":"admin","password":"123456 ","hope_alert":"用户或密码错误！请重新输入！"},
+    "test10":{"username":"","password":"123456 ","hope_alert":"- 用户名不能为空!"},
+    "test11":{"username":"admin","password":"","hope_alert":"- 密码不能为空!"}
+}
